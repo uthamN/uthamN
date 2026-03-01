@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Software Engineer and Computer Science master’s student with experience building full-stack systems and AI-powered applications. I enjoy designing scalable backend services, interactive frontend tools, and end-to-end ML/LLM pipelines that solve real-world problems.<br><br>My work spans web development with technologies like Next.js and Spring Boot, backend APIs, databases, and applied AI—particularly fine-tuning transformer models and building retrieval-augmented generation systems. I’m especially interested in clean system design and building products that balance usability with strong engineering foundations.<br><br>Currently, I’m focused on growing as an engineer by working on production-scale software, improving my system design skills, and exploring practical applications of AI in real products.
+Hi! I love building full-stack and AI systems. I enjoy designing scalable backend services, interactive frontend tools, and end-to-end ML/LLM pipelines that solve real-world problems.<br><br>I just design everything, and build everything and make everything look cooler.
 
 
 ## 🌐 Socials:
